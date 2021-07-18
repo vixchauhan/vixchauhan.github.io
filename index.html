@@ -1,0 +1,243 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>VK | Vikas Chauhan</title>
+  <meta name="description" content="Node JS, Molecular Js,Code Ignitor,MySql,React Native developer">
+  <meta name=”robots” content="index, follow">
+  <!-- Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap" rel="stylesheet">
+  <!-- Plugins -->
+  <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+  <link rel="stylesheet" href="assets/css/all.css">
+  <link rel="stylesheet" href="assets/css/variable.css">
+  <!-- Core Styles -->
+  <link rel="stylesheet" type="text/css" href="assets/css/owl.carousel.min.css">
+  <link rel="stylesheet" type="text/css" href="assets/css/owl.theme.default.min.css">
+  <link rel="stylesheet" href="assets/css/style.css">
+
+</head>
+
+<body>
+<!-- <a href="#" class="cv-btn"><i class="fa fa-download mr-2"></i>My Resume</a> -->
+<!-- Header Start -->
+<header class="py-3">
+  <div class="container">
+    <ul class="nav nav-pills justify-content-center" id="scrollnav">
+      <li class="nav-item">
+        <a class="nav-link" href="#home">Home</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#experiences">Experiences</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#education">Education</a>
+      </li>
+       <li class="nav-item">
+        <a class="nav-link" href="#skills">Skills</a>
+      </li>
+     <!--  <li class="nav-item">
+        <a class="nav-link" href="#testimonial">Testimonials</a>
+      </li> -->
+      <li class="nav-item">
+        <a class="nav-link" href="#contact">Contact</a>
+      </li>
+    </ul>
+  </div>
+</header>
+<!-- Header End -->
+<!-- About Start -->
+<section id="home" class="profile">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-lg-12 text-center">
+        <img src="https://media-exp3.licdn.com/dms/image/C4E03AQG54IKStryM8g/profile-displayphoto-shrink_200_200/0/1614071065411?e=1632355200&v=beta&t=T7kazvk2snn3xOk4hscqiabzpOXytMacNIBx7Iw_vIg"  class="img-fluid d-block mx-auto mb-3 p-img">
+        <h1 class="text-white">Vikas Chauhan</h1>
+        <h5 class="text-white">Software Engineer</h5>
+        <p class="my-4">Being Ambitious and self-motivated kept me ever ready to accept the challenging tasks. Made me a versatile full-stack developer by working on web and backend trending technologies. Total work experience of 4 years has provided a stiff path of learning and gaging expanded knowledge. As a part of curiosity and hobby, I have attracted and developed an interest in cybersecurity and ethical hacking. Will always keep looking growth opportunities in the field of Web, Backend, cybersecurity, and ethical hacking.</p>
+        <div class="d-flex flex-wrap align-items-center justify-content-center">
+          <a href="https://twitter.com/vkchauhan_" target="_blank" class="social-icon"><i class="fab fa-twitter"></i></a>
+          <a href="https://www.linkedin.com/in/mt11i/" target="_blank" class="social-icon"><i class="fab fa-linkedin-in"></i></a>
+          <a href="https://github.com/mt11i" target="_blank" class="social-icon"><i class="fab fa-github"></i></a>
+          <a href="https://www.instagram.com/vikaschauhan._" target="_blank" class="social-icon"><i class="fab fa-instagram"></i></a>
+          <a href="mailto:chauhanvikas710@gmail.com:" class="social-icon"><i class="fa fa-envelope"></i></a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- About End -->
+
+<!-- Experienece Start -->
+<section id="experiences" class="mt-6">
+  <div class="container">
+    <h2 class="main-title text-center pb-2 f-700 mb-5">Work Experiences</h2>
+    <div class="timeline">
+      <div class="item pt-30">        
+        <div class="work-place">
+            <h3 class="place">Crest Infosystems Pvt. Ltd.</h3>
+            <div class="location"><i class="fas fa-map-marker-alt mr-2 locate"></i>Surat</div>
+        </div>
+        <div class="job-meta">
+          <h4 class="title mb-0">Sr. Software Engineer</h4>
+          <span class="time">Feb-2020 - Present</span>
+        </div>
+        <div class="job-desc">
+          <p>
+Presently, continuing my career to serve my best for the company. With amazing people around as teammates open up my learning curve in extended technology and team building to become a leader. Direct interaction with clients allowed me to learn and adopt further knowledge of better requirement gathering and intellectual communication. Any company needs a strong management team to lead the company and resources. Here, feeling lucky to work under management representatives who taught the importance of time management and manage well a bigger size team in an efficient manner. The current working technology scope is <code>Molecular Js</code> (API development) which is a Node JS based framework. Extended learning on commit code and version controlling through GIT, it plays a role in the deployment process of a product.
+
+          </p> 
+         
+        </div>        
+      </div> 
+      <div class="item pt-30">        
+        <div class="work-place">
+            <h3 class="place">Netsol IT Solution Pvt. Ltd.</h3>
+            <div class="location"><i class="fas fa-map-marker-alt mr-2 locate"></i>Surat</div>
+        </div>
+        <div class="job-meta">
+          <h4 class="title mb-0">Sr. Software Engineer</h4>
+          <span class="time">Jan-2018 - Feb-2020</span>
+        </div>
+        <div class="job-desc"> 
+          <p>The company provided opportunities to work on multiple technologies and expand knowledge banks in different areas. Here open up the scope of working on API development using Node JS for a complex process project MLM related development. With active participation in learning, grab the knowledge of React Native and developed a complete project name Chase 11, which is inspired by the famous cricket game Dream 11. </p>  
+        </div>        
+      </div> 
+      <div class="item pt-30">        
+        <div class="work-place">
+            <h3 class="place">Siliconbrix Systems Pvt. Ltd</h3>
+            <div class="location"><i class="fas fa-map-marker-alt mr-2 locate"></i>Bardoli</div>
+        </div>
+        <div class="job-meta">
+          <h4 class="title mb-0">Jr. Software Engineer</h4>
+          <span class="time">Sept-2017 - Jan-2018</span>
+        </div>
+        <div class="job-desc">
+          <p>The small-time span in the company having a small team gave me exposure to working on a project GST based on an ERP system.</p>
+        </div>        
+      </div>      
+      <div class="item pt-30">        
+        <div class="work-place">
+            <h3 class="place">AtoZ Infoway LLP</h3>
+            <div class="location"><i class="fas fa-map-marker-alt mr-2 locate"></i>Sachin</div>
+        </div>
+        <div class="job-meta">
+          <h4 class="title mb-0">Jr. Software Engineer</h4>
+          <span class="time">June-2016 - Sept-2017</span>
+        </div>
+        <div class="job-desc">
+          <p>
+           I have started my career path from here by establishing knowledge on web and API development. With the attitude of a learner engaged actively in the assigned project of Booking System using PHP technology. Found myself lucky to get the best motivator manager who is the owner of the company. Company culture offered many instances to celebrate festivals and events in-house. I have learned a lot from here.
+          </p>
+        </div>        
+      </div>                
+    </div>
+  </div>
+</section>
+<!-- Experienece End -->
+
+<!-- Education Start -->
+<section id="education" class="mt-6">
+  <div class="container">
+    <h2 class="main-title text-center pb-2 f-700 mb-5">Education</h2>
+    <div class="row">
+      <div class="col-md-6 rmb-15">
+        <div class="edu-box d-flex">
+          <i class="fa fa-graduation-cap e-cap"></i>
+          <div class="edu-content">
+            <h4 class="mb-0">BCA</h4>
+            <p class="mb-0">Veer Narmad South Gujarat University</p>
+            <span>2011 - 2014</span>
+          </div>      
+        </div>
+      </div>
+      <div class="col-md-6">
+        <div class="edu-box d-flex">
+          <i class="fa fa-graduation-cap e-cap"></i>
+          <div class="edu-content">
+            <h4 class="mb-0">MCA</h4>
+            <p class="mb-0">Gujarat Technological University</p>
+            <span>2014 - 2016</span>
+          </div>      
+        </div>
+      </div>
+    </div>
+</section>
+<!-- Education End -->
+
+<!-- Skills Start -->
+  <section id="skills" class="mt-6">
+    <div class="container">
+      <div class="row justify-content-center">
+        <div class="col-lg-10">
+          <h2 class="main-title text-center pb-2 f-700 mb-5">Professional Skills</h2>
+          <div class="d-flex flex-wrap justify-content-center">
+            <span class="s-tag">Node Js</span>
+            <span class="s-tag">Moleculer Js</span>
+            <span class="s-tag">Express Js</span>
+            <span class="s-tag">Sequelize</span>
+            <span class="s-tag">WebSocket</span>
+            <span class="s-tag">Socket IO</span>
+            <span class="s-tag">PHP</span>
+            <span class="s-tag">Code Ignitor</span>
+            <span class="s-tag">MySQL</span>
+            <span class="s-tag">React Native</span>
+            <span class="s-tag">IONIC</span>
+            <span class="s-tag">JQuery</span>
+            <span class="s-tag">Type Script</span>
+            <span class="s-tag">Git</span>
+            <span class="s-tag">Web Scraping</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+<!-- Skills End -->
+
+<!-- Get in touch Start -->
+<section id="contact" class="get-in mt-6 py-5">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-lg-12">
+        <h2 class="main-title text-center pb-2 f-700 mb-5">Get in Touch</h2>
+        <p class="text-center">I'm curious to help you as a key team player in your company or can help in your project as a freelancer, belive in sharing knowledge and giving back to the community by contributing projects and helping the community in solving their day to day problems, connect with me on all the platforms and social media to be part of my awesome journey.</p>
+        <div class="text-center">
+          <p>Drop me a line at <a href="mailto:chauhanvikas710@gmail.com" class="text-color f-700">chauhanvikas710@gmail.com</a></p>
+          <div class="d-flex flex-wrap justify-content-center">
+			      <a href="https://twitter.com/vkchauhan_" class="f-icon" target="_blank"><i class="fab fa-twitter"></i></a>
+            <a href="https://www.linkedin.com/in/mt11i/" target="_blank" class="f-icon"><i class="fab fa-linkedin-in"></i></a>
+            <a href="https://github.com/mt11i" class="f-icon" target="_blank"><i class="fab fa-github"></i></a>
+            <a href="https://www.instagram.com/vikaschauhan._" target="_blank" class="f-icon"><i class="fab fa-instagram"></i></a>
+            <a href="mailto:chauhanvikas710@gmail.com" class="f-icon"><i class="fa fa-envelope"></i></a>            
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+  <button class="g-recaptcha" style="display:none" 
+        data-sitekey="6LeZXcAUAAAAANN7CTWfUPpFzVNrgWwCKWoz3vic" 
+        data-callback='onSubmit' 
+        data-action='submit'></button>
+<!-- Get in touch End -->
+
+ <!-- Optional JavaScript -->
+<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+<script>
+   function onSubmit(token) {
+     document.getElementById("demo-form").submit();
+   }
+ </script>
+<script src="assets/js/jquery-3.5.1.slim.min.js"></script>
+<script src="assets/js/popper.min.js"></script>
+<script src="assets/js/bootstrap.min.js"></script>
+<script src="assets/js/jquery.scrollTo.min.js"></script>
+<script src="assets/js/owl.carousel.min.js"></script>
+<script src="assets/js/scripts.js"></script>
+<script src="https://www.google.com/recaptcha/api.js"></script>
+</body>
+</html>
