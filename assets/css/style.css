@@ -370,3 +370,18 @@ header {
 .p-img{
  border-radius: 50%;
 }
+
+.anim-bg-gradient {
+  padding: 0.6em 1.2em;
+  border-radius: 0.25em;
+  cursor: pointer;
+  color: white;
+  background: linear-gradient(120deg, darkmagenta, crimson, orange);
+  background-size: 200% 100%;
+  background-position: 100% 0;
+  transition: background-position .5s;
+}
+
+.anim-bg-gradient:hover {
+  background-position: 0 0;
+}
